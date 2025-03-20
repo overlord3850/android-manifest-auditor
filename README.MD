@@ -28,6 +28,8 @@ cd android-manifest-auditor
 python android_manifest_audit.py /path/to/AndroidManifest.xml
 ```
 
+![Alt text](Output.png)
+
 3️⃣ JSON Output (For Reports & Automation)
 ```sh
 Print JSON in Console:
