@@ -1,4 +1,4 @@
-##🛡️ AndroidManifest Auditor  
+## 🛡️ AndroidManifest Auditor  
 A "vibe coded" **Python-based security audit tool** that scans `AndroidManifest.xml` files for misconfigurations, privacy risks, and security vulnerabilities. 🚀  
 
 ## 🛠 Why I Built This
