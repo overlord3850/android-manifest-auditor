@@ -19,7 +19,11 @@ def parse_manifest(manifest_path):
 
     issues = []
     
-    print(f"\n🔍 Auditing AndroidManifest.xml: {manifest_path}")
+    print("\n")
+    print("=" * 80)
+    print(f"\t\tAndroid Manifest Auditor by @overlord3850")
+    print("=" * 80)
+    print("\n\n 🔍 Auditing AndroidManifest.xml: {manifest_path}")
     print("=" * 80)
 
     # 1️⃣ Detect Dangerous Permissions
